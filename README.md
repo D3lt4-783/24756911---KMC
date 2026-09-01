@@ -1,4 +1,4 @@
-# 24756911---KMC
+# 24756911---KMC-code
 
 This repository contains four code files. Namely:
 1. RadialDisplacement.mlx
